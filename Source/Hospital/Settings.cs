@@ -9,7 +9,7 @@ public class Settings : ModSettings
     public bool AcceptSurgery;
     public float PatientLimit;
     public float BedsForColonists = 0.50f;
-    public float SilverMultiplier = 1f;
+    public float SilverMultiplier = 5f;
     public bool ShowMessageAtArrival;
     
     public override void ExposeData()
